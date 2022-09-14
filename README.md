@@ -14,9 +14,10 @@ The concerns I have about this technology are the fact that the projected conten
 
 The process of finding my own voice within the piece is on-going, but so far I was able to take a bit of that space by blocking out the content I had collected from my mother and beginning animation based on colours and imagery that appealed to me while still taking into account the ultimate feel of the piece as I know it now. When I engaged in this exercise, I was able to come up with a colour palette that I really love, find brushes that I like, and a poetic interpretation of the story I want to tell that felt true to how I approach understanding a story. A preliminary sketch of the first shot of the animation can be seen here:
 
+![image](Draft1ofFirstAnimationFrame.jpeg)
 
 The next steps of my process are figuring out where my project will live. Will it be an installation? Of what scale? Do I want to include light in the piece as a way to further whatever story I will tell? Which one of the many stories that I collected from my mother will be the primary story? 
 
 To answer some of these questions, I am planning on visiting the new exhibit on campus in the gallery space facing the road off campus.
-![image]()
+
 
