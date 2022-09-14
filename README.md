@@ -10,7 +10,7 @@ This week I gave myself two action items. First, I planned to figure out how to 
 
 For the first task, I reached out to Waad, an IM major from the class of 2021, who had a brief element of AR in her IM capstone. From her, I learned of the software, “Artivive.” Artvive allows a user to augment a physical space by simply taking a picture of the space and uploading onto the software the content that the user wishes to have displayed on this physical space when viewed through the Artivive app. I experimented a bit with this and was able to figure out how to do this in a way that felt satisfactory to me. A video of me figuring this out can be found here:
 
-![](TestingARTake1)
+![](TestingARTake1.gif)
 
 The concerns I have about this technology are the fact that the projected content seems a little wobbly and I would like it to be more stabilized. I plan on experimenting with printing out the target image to be projected on as opposed to using an actual physical object as the subject of projection by the AR technology. This is reported to help with stabilization.
 
