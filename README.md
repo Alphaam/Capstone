@@ -42,9 +42,9 @@ Another structure in installations that I am very drawn to is holograms and othe
   
  
  ![image](Glassbroom.jpeg)
- ![image]()
- ![image]()
- ![image]()
+ ![image](hologram.jpeg)
+ ![image](drowning.jpeg)
+ 
  
 
 I imagine that having structures like these looping through certain bits of the animation could aid to the overall aesthetic of the space but I am unsure if it lends itself to the ultimate story of the installation in a way that necessitates them being in the installation. I will continue to sit with this data and see if that changes.
