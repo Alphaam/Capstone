@@ -30,10 +30,10 @@ This week I focused on two things:
 
 1. In researching the look of my installation, I found that I am very, aesthetically, drawn to installations that incorporated ceiling to floor-length flowing textures. Examples of these installations are as seen below:
 
- ![image]()
- ![image]()
- ![image]()
- ![image]()
+ ![image](Sheets installation.jpeg)
+ ![image](Sheets2.jpeg)
+ ![image](sheets5.jpeg)
+ 
 
 
 I think that this structure of an installation works very well with the kind of animation that I am going to make. Seeing as my animation is going to be a story happening outdoors mainly with an enchanted forest feel, the flowing sheets aid to the aesthetics of the animation quite well. My current idea is having the animation that I make live on these sheets with the story spilling into the sheets next to each other in a way that takes the participant throughout the room following the story on their AR visualization device. I am going to experiment with this structure at a smaller scale in this coming week and see how attainable it is.
