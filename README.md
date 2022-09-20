@@ -41,7 +41,7 @@ I think that this structure of an installation works very well with the kind of 
 Another structure in installations that I am very drawn to is holograms and other display items in glass/glass-like containers. Examples can be seen below:
   
  
- ![image]()
+ ![image](Glassbroom.jpeg)
  ![image]()
  ![image]()
  ![image]()
