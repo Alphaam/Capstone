@@ -30,7 +30,7 @@ This week I focused on two things:
 
 1. In researching the look of my installation, I found that I am very, aesthetically, drawn to installations that incorporated ceiling to floor-length flowing textures. Examples of these installations are as seen below:
 
- ![image](Sheets installation.jpeg)
+ ![image](Sheetsinstallation.jpeg)
  ![image](Sheets2.jpeg)
  ![image](sheets5.jpeg)
  
