@@ -22,4 +22,34 @@ The next steps of my process are figuring out where my project will live. Will i
 
 To answer some of these questions, I am planning on visiting the new exhibit on campus in the gallery space facing the road off campus.
 
+## Progress Report for September 20th
+
+This week I focused on two things:
+1.	Finding inspiration for what the installation space for my project will look like
+2.	Continuing to research AR to find which execution of the technology is best suited for my research
+
+1. In researching the look of my installation, I found that I am very, aesthetically, drawn to installations that incorporated ceiling to floor-length flowing textures. Examples of these installations are as seen below:
+
+ ![image]()
+ ![image]()
+ ![image]()
+ ![image]()
+
+
+I think that this structure of an installation works very well with the kind of animation that I am going to make. Seeing as my animation is going to be a story happening outdoors mainly with an enchanted forest feel, the flowing sheets aid to the aesthetics of the animation quite well. My current idea is having the animation that I make live on these sheets with the story spilling into the sheets next to each other in a way that takes the participant throughout the room following the story on their AR visualization device. I am going to experiment with this structure at a smaller scale in this coming week and see how attainable it is.
+
+Another structure in installations that I am very drawn to is holograms and other display items in glass/glass-like containers. Examples can be seen below:
+  
+ 
+ ![image]()
+ ![image]()
+ ![image]()
+ ![image]()
+ 
+
+I imagine that having structures like these looping through certain bits of the animation could aid to the overall aesthetic of the space but I am unsure if it lends itself to the ultimate story of the installation in a way that necessitates them being in the installation. I will continue to sit with this data and see if that changes.
+
+2. I committed some time to learning Unity over the past week. My initial impression is that it might be a bit more complicated than I will need for this specific project as the primary things I wish to spend time creating are 2D animations and sound. I will continue to spend time learning Unity while I also continue to look at other simpler options before I make a final decision about the software I will use.
+
+
 
