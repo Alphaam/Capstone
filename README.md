@@ -60,14 +60,23 @@ I am relatively new to animation. All I have done so-far animation-wise was from
 
 I decided to first learn about walk-cycles. I notice that I always avoid walk-cycles in the animations that I make because it feels daunting and I can usually get away with it by making my characters fly or float. I know I want my character to walk in this animation and this is an animation tool I want to learn. I, therefore begun watching YouTube videos from creators I feel comfortable with that teach 2D animation. Some of the videos I used include the following:
 
+https://www.youtube.com/watch?v=2y6aVz0Acx0
+https://www.youtube.com/watch?v=KDCEvJvAX0w
+https://www.youtube.com/watch?v=FYMT1Xj7bTk
+
+
 In practicing, I begun with creating a walk cycle using a rough sketch of my character and a template I found online. This is what it looked like.
 
-
+![image](walkingpics.jpeg)
+![](stickwalkcycle.gif)
 
 After this, I worked on developing my character a bit more since I only had a rough idea of what she would look like. In developing the character, I first had to research the colour palette I wanted to use. Here, I found that because my story would have a lot to do with nature (trees, lizards, gardens) then the colour palette should have an earth tone overall. However, the story is also about how one develops fear, so the earth-tone would have to be a bit dark. I ended up deciding on the colour palette below:
 
+![image](colorpalette.jpeg)
 
 After this, I went ahead and started ideating details of my character. The front and side view of the character can be seen below:
+
+![image](frontviewofcharacher.jpeg)
 
 The concept of the character is a play on my mother’s name: Rose. So, the character is a being in a rose-flower dress. It is also a play on the fact that my mother would always hear that her “head is in the clouds” so my character’s head is a cloud.
 
@@ -75,6 +84,8 @@ Although I like the character, I do want to develop it a bit further since I fee
 
 After developing my character, I wanted to experiment with the kinematics of this rose dress. I want it to follow the walking motion in a way that is delicate yet intentional. I attempted to do so as seen below:
 
+![](initialflowerwalkcycle.gif)
+![](flowerwalkcycle.gif)
 
 I am not satisfied with this version and I intend on working on it a bit more.
 
