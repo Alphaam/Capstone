@@ -52,3 +52,29 @@ I imagine that having structures like these looping through certain bits of the 
 2. I committed some time to learning Unity over the past week. My initial impression is that it might be a bit more complicated than I will need for this specific project as the primary things I wish to spend time creating are 2D animations and sound. I will continue to spend time learning Unity while I also continue to look at other simpler options before I make a final decision about the software I will use.
 
 
+## Progress Report for September 27th
+
+This week I focused on an element of my project that I am certain will make it into the final version of my capstone: 2D animation. I decided on this primarily because I was feeling overwhelmed by decisions concerning the technology I wanted to use. It felt as though I was being guided by the technology and not what I am actually interested in.
+
+I am relatively new to animation. All I have done so-far animation-wise was from solo exploring and not from any structured learning. Because I am anticipating that this animation will be the longest one I have ever made and one that requires a lot more intention, I decided to start learning some basics.
+
+I decided to first learn about walk-cycles. I notice that I always avoid walk-cycles in the animations that I make because it feels daunting and I can usually get away with it by making my characters fly or float. I know I want my character to walk in this animation and this is an animation tool I want to learn. I, therefore begun watching YouTube videos from creators I feel comfortable with that teach 2D animation. Some of the videos I used include the following:
+
+In practicing, I begun with creating a walk cycle using a rough sketch of my character and a template I found online. This is what it looked like.
+
+
+
+After this, I worked on developing my character a bit more since I only had a rough idea of what she would look like. In developing the character, I first had to research the colour palette I wanted to use. Here, I found that because my story would have a lot to do with nature (trees, lizards, gardens) then the colour palette should have an earth tone overall. However, the story is also about how one develops fear, so the earth-tone would have to be a bit dark. I ended up deciding on the colour palette below:
+
+
+After this, I went ahead and started ideating details of my character. The front and side view of the character can be seen below:
+
+The concept of the character is a play on my mother’s name: Rose. So, the character is a being in a rose-flower dress. It is also a play on the fact that my mother would always hear that her “head is in the clouds” so my character’s head is a cloud.
+
+Although I like the character, I do want to develop it a bit further since I feel as though it might be a little too literal.
+
+After developing my character, I wanted to experiment with the kinematics of this rose dress. I want it to follow the walking motion in a way that is delicate yet intentional. I attempted to do so as seen below:
+
+
+I am not satisfied with this version and I intend on working on it a bit more.
+
