@@ -25,20 +25,21 @@ To answer some of these questions, I am planning on visiting the new exhibit on 
 ## Progress Report for September 20th
 
 This week I focused on two things:
-1.	Finding inspiration for what the installation space for my project will look like
-2.	Continuing to research AR to find which execution of the technology is best suited for my research
+1.	Finding inspiration for what the installation space for my project will look like.
+2.	Continuing to research AR to find which execution of the technology is best suited for my research.
 
-1. In researching the look of my installation, I found that I am very, aesthetically, drawn to installations that incorporated ceiling to floor-length flowing textures. Examples of these installations are as seen below:
+1. In researching the look of my installation, I visited the exhibit in the art gallery on campus. I went in without any expectations and simply looking for whichever pieces will speak to me aesthetically. I found that I am very, aesthetically, drawn to installations that incorporated ceiling to floor-length flowing textures. Examples of these installations including the one in the art gallery space are as seen below:
 
  ![image](Sheetsinstallation.jpeg)
  ![image](Sheets2.jpg)
  ![image](sheets5.jpeg)
  
 
-
 I think that this structure of an installation works very well with the kind of animation that I am going to make. Seeing as my animation is going to be a story happening outdoors mainly with an enchanted forest feel, the flowing sheets aid to the aesthetics of the animation quite well. My current idea is having the animation that I make live on these sheets with the story spilling into the sheets next to each other in a way that takes the participant throughout the room following the story on their AR visualization device. I am going to experiment with this structure at a smaller scale in this coming week and see how attainable it is.
 
-Another structure in installations that I am very drawn to is holograms and other display items in glass/glass-like containers. Examples can be seen below:
+Additionally, the flowing sheets made me think of how to potentially represent natural elements within my final installations. I am slowly realizing I want to build a world that a participant can be immersed in and that I want this world to be the forest that my other bases her story abut a lizard in. The flowing sheets can be very useful in developing an outdoors feel when coupled with a fan and sound. With some sound engineering coupled with some fanning, I can make the space feel like it is being affected by the wind and in that way aid in the creation of this forest world.
+
+In the art gallery, I encountered a few pieces that made use of glass/glass-like materials and the illusion of 2D as 3D. I was very drawn to this and I wanted to explore the presentation of 2D content as 3D and it led me to holograms. Some content I was drawn to in my research including during my visit to the installation can be seen below:
   
  
  ![image](Glassbroom.jpeg)
@@ -49,7 +50,11 @@ Another structure in installations that I am very drawn to is holograms and othe
 
 I imagine that having structures like these looping through certain bits of the animation could aid to the overall aesthetic of the space but I am unsure if it lends itself to the ultimate story of the installation in a way that necessitates them being in the installation. I will continue to sit with this data and see if that changes.
 
-2. I committed some time to learning Unity over the past week. My initial impression is that it might be a bit more complicated than I will need for this specific project as the primary things I wish to spend time creating are 2D animations and sound. I will continue to spend time learning Unity while I also continue to look at other simpler options before I make a final decision about the software I will use.
+2. I committed some time to learning Unity over the past week. I enrolled into the "Unity: AR Visualization 01 Basic Concepts" course on LinkedIn learning. I begun with the basics of unity and the applications of Unity in relation to AR. The course does seem to have an engineering focus and a 3D design focus. Both of these things are not things that I anticipate will be prominent in my work. Soecifically because I am very drawn to making work in 2D as there is a comfortability in working with 2D that serves me creating this story around my mother feel more approachable. I also think there is something quite poetic about my work in 2D as a opposed to 3D and I want that prominent in my capstone eventually.
+
+My final thoughts about Unity are that it might be a bit too complicated than I will need for this specific project as the primary things I wish to spend time creating are 2D animations and sound. I will continue to spend time learning Unity while I also continue to look at other simpler options before I make a final decision about the software I will use.
+
+This journey with Unity also revealed to me how much I value simplicity in this project. I think I would like the tone of the entire project to communicate simplicity. i am unsure what this actually looks like but I take it as a guiding discovery as I continue to learn about myself and what I want for this project, ultimately.
 
 
 ## Progress Report for September 27th
