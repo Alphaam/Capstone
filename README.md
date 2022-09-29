@@ -22,7 +22,7 @@ The next steps of my process are figuring out where my project will live. Will i
 
 To answer some of these questions, I am planning on visiting the new exhibit on campus in the gallery space facing the road off campus.
 
-## Progress Report for September 20th
+## Progress Report for September 20th(revised)
 
 This week I focused on two things:
 1.	Finding inspiration for what the installation space for my project will look like.
