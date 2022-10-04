@@ -1,4 +1,7 @@
 
+Link to word doc of this essay with proper citations that I could not implement onto Github can be found ![link here].
+
+
 Abdi Ambari
 
 Capstone Midterm Paper Draft
