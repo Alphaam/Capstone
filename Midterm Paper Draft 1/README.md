@@ -17,7 +17,7 @@ My capstone project is going to be an interactive installation that tells the st
 1. 	Billie Zangewa
 
 
-![image]("pics/space.jpeg")
+[](/pics/Boby.png)
 
 The story I am telling in my capstone is about motherhood from the perspective of a mother and a child going through trials and coming out the other side not resentful of their past. Instead, they acknowledge what has happened and proceed to build a life they want with whatever these past experiences have left them with. This is exactly the story of Zangewa’s artistic journey. She uses scrap pieces of silk to create beautiful tapestries about her life. She describes the intention behind the use of scrap material when she says, “[w]e can still stitch and thread together something beautiful with what remains.” Implying that she uses these scraps to embody the message of what is left over after use, wear and tear- as a metaphor for life after trauma- is not useless and can be beautiful. In my capstone, I aim to embody this sentiment by exploring the beauty of what has remained that is a direct consequence of my mother and I’s journey. This also lends itself to creating a piece that feels beautiful although it is about trauma similar to the beautiful works by Zangewa.
 
