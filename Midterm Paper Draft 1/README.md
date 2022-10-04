@@ -1,5 +1,5 @@
 
-Link to word doc of this essay with proper citations that I could not implement onto Github can be found [link]([here](https://docs.google.com/document/d/1mqpWKy73KfzMZTbfnBYMTPWEEjtqu5_4/edit?usp=sharing&ouid=102418891017659911395&rtpof=true&sd=true)).
+A link to the word doc of this essay with proper citations that I could not implement onto Github can be found [here](https://docs.google.com/document/d/1mqpWKy73KfzMZTbfnBYMTPWEEjtqu5_4/edit?usp=sharing&ouid=102418891017659911395&rtpof=true&sd=true)).
 
 
 Abdi Ambari
