@@ -1,5 +1,5 @@
 
-Link to word doc of this essay with proper citations that I could not implement onto Github can be found ![link here].
+Link to word doc of this essay with proper citations that I could not implement onto Github can be found [link]([here](https://docs.google.com/document/d/1mqpWKy73KfzMZTbfnBYMTPWEEjtqu5_4/edit?usp=sharing&ouid=102418891017659911395&rtpof=true&sd=true)).
 
 
 Abdi Ambari
@@ -16,6 +16,9 @@ My capstone project is going to be an interactive installation that tells the st
  
 1. 	Billie Zangewa
 
+
+![image]()
+
 The story I am telling in my capstone is about motherhood from the perspective of a mother and a child going through trials and coming out the other side not resentful of their past. Instead, they acknowledge what has happened and proceed to build a life they want with whatever these past experiences have left them with. This is exactly the story of Zangewa’s artistic journey. She uses scrap pieces of silk to create beautiful tapestries about her life. She describes the intention behind the use of scrap material when she says, “[w]e can still stitch and thread together something beautiful with what remains.” Implying that she uses these scraps to embody the message of what is left over after use, wear and tear- as a metaphor for life after trauma- is not useless and can be beautiful. In my capstone, I aim to embody this sentiment by exploring the beauty of what has remained that is a direct consequence of my mother and I’s journey. This also lends itself to creating a piece that feels beautiful although it is about trauma similar to the beautiful works by Zangewa.
 
 
@@ -23,12 +26,16 @@ Like Zangewa, I am also learning how to balance heavy messages and beauty using 
            
 2. 	Géraldine Tobé, Michel Ekeba and Jean David Nkot
 
+![image]()
+
 Géraldine Tobé, Michel Ekeba, and Jean David Nkot are African artists who came together to create a beautiful painting that was launched into space as a part of an initiative to raise awareness of the urgency of environmental sustainability practices in Africa. Thinking about this piece reminds me to actively push back against the inclination I have to take up as little space as possible when imagining the scope of my art. I want my mother’s African story to take up a lot space in its scope. I return to the story of these three artists to remind myself of how even when I think my work has taken up space, it can take up even more just as theirs has taken up space in outer-space, a scale unimaginable for many African artists. This is in line with another lesson I am learning in the book Seeing What Others Don't: The Remarkable Ways We Gain Insights by Gary Klein who argues that by taking up more and more space, we gain more and more perspective, especially with content that one might not have extensive insights on (in my case, motherhood). 
 
 
 Additionally, I return to their work to remind me that the space I take up does not have to be conventional for African art. African art has been limited in its global reach. The exception appears to be art that fits within this metaphorical box created for what Africans can be by the global audience. The qualities of this art are usually that it has to be about stereotypical African ways of life (life in villages, work about African people and their relationship to wildlife, etc.) or in mediums that are deemed African such as Afrobeats music. However, there is so much more to Africa than just cultural traditions and stereotypical “African issues.” There are stories that are surprising, unconventional, and stories that do not fit any popular stereotypes. Stories that require an acknowledgment of the nuance of the complex existence of Africans. Stories like my mother’s. These artists created art about the cosmos and they are placing it on a platform that is not native to nor popular in Africa- a spaceship. I want this unapologetic intention to take up spaces that are not typically for art like mine, art about being African, to follow me as I develop this piece. Practically that looks like not being shy to use whatever languages I am comfortable with in my piece. It also looks like allowing myself to speak about this African experience in ways that make sense to me and my mother without feeling the need to tokenize any parts of the African identity for the sake of digestibility and, ultimately, trusting that my audience will understand and appreciate my work or in the way I choose to make it.
  
 3. 	Biubers
+
+![image]()
 
 Biuber’s is a multi-media artist who draws inspiration for her work from her seemingly limitless imagination. She approaches creating by first completely reimagining the world in a way that potentially only makes sense to her and then tries to present this visually. Her output is extremely intricate pieces of work that inspire audiences to redefine the limits of their own imaginations.[6] As an artist myself, I am very interested in exploring the concept of limits in whatever ways I encounter them in this project. I do this, primarily for reasons relating to the desire to take up more space as an artist generally, but in the case of this project and how it relates to Biubers, I am interested in exploring the limits I have put on my own process in animation. I do this to come closer to creating an animated piece that best describes my authentic style and that does justice to how special the story I am telling is. Practically, I am learning from Biubers how to rethink character design, especially when drawing inspiration from metaphors. An example is how the main character design has a rose for a body and a cloud for a head as metaphors for my mother being named Rose and people around her often commenting on how she has her “head in the clouds” respectively.
 
