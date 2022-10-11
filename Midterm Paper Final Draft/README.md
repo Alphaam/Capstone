@@ -1,7 +1,18 @@
+
+A link to the word doc of this essay with proper citations that I could not implement onto Github can be found [here](https://docs.google.com/document/d/1a1VihyK0aDXlVaZGGimyp1ZBJs4qgQJDNT1fjieLzko/edit?usp=sharing).
+
+
+
+
 Abdi Ambari
+
 Capstone Midterm Paper Draft
+
 11th October 2022
+
 My Mother and I.
+
+
 My capstone project is going to be an interactive installation that tells the story, primarily using 2D animation, of how my mother developed a crippling fear of lizards. I intend to use this story about lizards to tell a larger story about my mother’s journey in motherhood as it pertains to me and how I grew up. I aim to incorporate the use of sound, metaphoric animation style, and the use of a large physical space to tell this story. As I build this project, I look to the artists Billie Zangewa, Biubers, and the joint work by Géraldine Tobé, Michel Ekeba, and Jean David Nkot for inspiration. These artists and their work inspire my capstone in the following ways:
  
 1. 	Billie Zangewa
