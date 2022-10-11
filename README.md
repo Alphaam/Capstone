@@ -99,10 +99,35 @@ As I worked on this, I started thinking about why I wanted to work with the tech
 
 ## Progress Report for October 11th
 
+This week I focused on continuing to learn about walk cycles. This time with the subject moving towards the screen. For this, I consulted the following tutorials.
+
+https://www.youtube.com/watch?v=0vGDF8sFdAo
+https://www.youtube.com/watch?v=68BmVyiIKkI
+
+The first iteration was coming up with a rough sketch of the main character’s walk cycle using the intended proportions of her body. The resulting animation can be seen below.
+
+
 ![](/pics/Developed1.gif)
+
+
+The second iteration was then adding the rose dress on the character in a way that felt consistent enough in each frame. To do this, I made use of the mid-part of my rough sketch’s torso. This would be where I would, consistently, locate the synch of the rose dress. The resulting draft was one that I felt was consistent enough in dress location. Additionally, I continued to figure out the mechanics of the dress. How would the dress move with the movement of the character’s hips and upper body? I played around with this by also watching videos of people walking in dresses on fashion runways and the output can be seen below.
+
+
+
 ![](/pics/Developed2.gif)
 ![](/pics/Developed3.gif)
 ![](/pics/Developed4.gif)
+
+
+
+I am investing so much time in walk cycles because I see my project eventually becoming very dependent on the characters’ movement both to move the plot of the story forward and in aiding the impressiveness of the experience. Because I envision this animation eventually being projected on walls, character movement along the walls would incentivize the participants to
+Follow this movement and, ultimately, help them feel more engaged with the space.
+
+When I met with my capstone mentor, we decided that I was also excited to develop more abstract animations. This is because, I think, having more abstract animations for this story would help with making it more metaphoric in a way that also points to the larger themes I am exploring in this capstone. This would also allow me to include the narration of the story, which is very specific, without limiting the take away of the entire piece being the literal story about the lizard. Rather, it would allow for this important story to be told while also allowing for interpretations of the story as informed by abstract animations. In trying to begin thinking more abstractly, I decided to simply create a character taht I imagined while actively fighting back against my impuses towards realism. The output is as seen below.
+
+
 ![](/pics/Developed5.gif)
-![](/pics/Moodboard1.gif)
-![](/pics/Moodboard2.gif)
+
+ 
+For next week, I will focus my efforts on creating a mood board for my animation as well as creating a storyboard for my animation.
+
