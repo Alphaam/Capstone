@@ -99,9 +99,10 @@ As I worked on this, I started thinking about why I wanted to work with the tech
 
 ## Progress Report for October 11th
 
-![](/pics/space.gif)
-![](/pics/space.gif)
-![](/pics/space.gif)
-![](/pics/space.gif)
-![](/pics/space.gif)
-
+![](/pics/Developed1.gif)
+![](/pics/Developed2.gif)
+![](/pics/Developed3.gif)
+![](/pics/Developed4.gif)
+![](/pics/Developed5.gif)
+![](/pics/Moodboard1.gif)
+![](/pics/Moodboard2.gif)
