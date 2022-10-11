@@ -99,7 +99,9 @@ As I worked on this, I started thinking about why I wanted to work with the tech
 
 ## Progress Report for October 11th
 
-![](flowerwalkcycle.gif)
-![](flowerwalkcycle.gif)
-![](flowerwalkcycle.gif)
-![](flowerwalkcycle.gif)
+![](/pics/space.gif)
+![](/pics/space.gif)
+![](/pics/space.gif)
+![](/pics/space.gif)
+![](/pics/space.gif)
+
