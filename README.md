@@ -131,3 +131,64 @@ When I met with my capstone mentor, we decided that I was also excited to develo
  
 For next week, I will focus my efforts on creating a mood board for my animation as well as creating a storyboard for my animation.
 
+## Blogpost as of Oct 25th
+
+## Abdi Ambari Capstone Reflection.
+
+I began thinking of my capstone knowing two things for certain: I want to make a hand-drawn 2D animation, and I want my capstone to have something to do with my mother. From the beginning, I knew I wanted whatever decisions I made with regard to my capstone to be decisions that build around these two things.
+ 
+In reflecting on how my capstone has evolved, I notice that it has evolved around these two initial aims and how to execute and present them.
+ 
+## Evolution of animation creation and presentation
+ 
+### Animation creation 
+I always had an idea of what I wanted my animation to look like. I knew I wanted it to look similar to the following reference picture:
+
+![image]()
+ 
+I wanted it to feel soft, have muted colors, and be inspired heavily by nature in its aesthetic and the objects contained in it. I also wanted it to embody a feeling of an enchanted forest similar to the feeling I derived from the reference picture above.
+ 
+When I finally got to creating my animations, I found that I was drawn to a more poetic interpretation of the world I wanted to create. The world I began to build contained a lot of metaphorical imagery specifically with the design of my mother’s character as seen below:
+
+
+![image](Draft1ofFirstAnimationFrame.jpeg)
+ 
+ 
+I designed my mother’s character using her name, Rose, as an actual rose to make up her torso and her head being a cloud because people often say she has her head in the clouds.
+ 
+As I created this design, I realized how much I enjoyed making more abstract art. I, therefore, decided to take some time to explore this further. I began developing characters with more abstract designs and exercising my creativity muscle in thinking outside the confines of realism.
+ 
+As I experimented with abstract drawing, I realized I had never taken the time to develop my own animation style. I do not have a set of go-to brushes, or approaches to animation aesthetics or design etc. I have always made animation in styles that were specified to me by whoever my consumer was. I have, thus, begun researching what my own unique animation style could be. I am doing this by developing an animation mood board and speaking to other artists about how they found their own unique styles. This is an ongoing process but one that I am very excited about.
+ 
+### Animation presentation
+ 
+I initially wanted to present my animation using AR technology. The vision was to have my animation interact with the physical world because I thought that would be fun to try and execute and an interesting way to display a 2D animation.
+
+I began learning unity and experimenting with different AR applications like Artivive to try and figure this out. However, the more I did all of this, the more I realized that it was not what I wanted for my capstone. I realized that I had not put a lot of intentional thought into why I liked certain technologies for my capstone and how they would help with the story I wanted to tell. Instead, my decisions around technology were derived from the few technologies/ways of presenting digital work that I had encountered.
+ 
+In light of this, I decided to invest more time in drawing inspiration from installation art pieces I could access. I visited the exhibit in the NYUAD gallery, researched artists doing projects similar to mine, and also got recommendations from peers about where they imagine my work living. Ultimately, I landed on projection mapping.
+ 
+Landing on projection mapping came from first realizing that I did have the desire to have my 2D work feel like 3D work, the fact that I wanted my piece to feel immersive, and the fact that I was really drawn to large-scale installations. The primary point of inspiration came from the Van Gogh exhibits seen below.
+ 
+![image]() 
+ 
+I was then exposed to TeamLab's work which made me fall in love with this way of presenting my work even more.
+ 
+The questions I am still asking with regard to the presentation are how my animations can merge with the way I intend to use space and what the technical implementation of this could look like.
+ 
+My mother’s story
+When I realized I wanted to include my mother in my capstone, I was unsure what about her to include. I knew I was fascinated by her perspective on motherhood. She had so many stories about unique predicaments that she found herself in with regard to motherhood that could act as beautiful metaphors for her entire journey as a mother.
+ 
+I began interviewing her about her life, in general, to try and develop a plot for my animation. I collected songs, the funniest memories, the most memorable memories, significant life lessons, etc. Eventually, I arrived at her story about lizards.
+ 
+My mother is terrified of lizards. Her fear of these creatures is one of her most identifiable traits. The story about how she became scared of them comes in three parts over the course of many years. The first instance happens when she is a child, then when she is pregnant with me, and finally when she has just given birth to me.
+ 
+I grew very fascinated by these stories because they seemed to follow her through her journey of becoming a mother: before motherhood, during pregnancy, and once the child has arrived. For personal reasons, I do think this development of this fear successfully captures how my mother has developed as a person during the time I have known her.
+ 
+In a feedback session with Professor Slavica, she asked me where I am in this capstone. This question really stuck with me. This is because up until that point I had the central content of my animation about someone else and my medium did not really reflect my individual style. I decided at that point that I do want to include more of myself in this project. I began by re-examining the story about my mother and the lizards and realized that I am a primary character in it as well. I also realized that it illustrated our relationship quite well. I have thus, decided to expand the story and include myself in it by re-phrasing the story to focus more on my participation in the development of her fear of lizards. This is a ongoing effort.
+ 
+ 
+ 
+
+
+
