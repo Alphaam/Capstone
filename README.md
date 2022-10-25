@@ -144,7 +144,7 @@ In reflecting on how my capstone has evolved, I notice that it has evolved aroun
 ### Animation creation 
 I always had an idea of what I wanted my animation to look like. I knew I wanted it to look similar to the following reference picture:
 
-![image]()
+![image](/pics/Picture1.png)
  
 I wanted it to feel soft, have muted colors, and be inspired heavily by nature in its aesthetic and the objects contained in it. I also wanted it to embody a feeling of an enchanted forest similar to the feeling I derived from the reference picture above.
  
@@ -170,7 +170,7 @@ In light of this, I decided to invest more time in drawing inspiration from inst
  
 Landing on projection mapping came from first realizing that I did have the desire to have my 2D work feel like 3D work, the fact that I wanted my piece to feel immersive, and the fact that I was really drawn to large-scale installations. The primary point of inspiration came from the Van Gogh exhibits seen below.
  
-![image]() 
+![image](/pics/van.jpeg) 
  
 I was then exposed to TeamLab's work which made me fall in love with this way of presenting my work even more.
  
