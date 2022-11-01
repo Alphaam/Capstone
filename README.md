@@ -213,12 +213,12 @@ The next step in this process was to figure out how to create an animation that 
 
 I then decide to reduce the number of empty frames in the second animation. This seemed to work but the longer the animations looped the more there was a gap between the animations (they did not flow continuously).
 
-![](/pics/)
+![](/pics/1trial.gif)
 
 I then realized that both my animations need to have the exact same length if I wanted the gap to not develop and that I just needed to play the second animation a few seconds after the first animation. Once I did this, the animation worked perfectly.
 
-![](/pics/1working.gif)
-![](/pics/2)
+![](/pics/workin1.gif)
+![](/pics/working2.gif)
 
 
  
