@@ -192,7 +192,7 @@ In a feedback session with Professor Slavica, she asked me where I am in this ca
 
 ### Question
 
-I know the response to anxieties surrounding how IM doesn't make us specialists in anything specific but instead gives us somewhat of an introduction to a bunch of things and how this may disadvantage us in the job search is “the employment world is looking for generalists with a desire to learn.” However, what are the caveats to this response? is the fact that I know a little about a little bit of everything an actual practical advantage over someone who has in-depth specific experience for a role? 
+I recognize that we should view our lack of specialization in IM as a strength because the employment world is looking for generalists with a desire to learn. However, what are the caveats to this? is the fact that I know a little about a little bit of everything an actual practical advantage over someone who has in-depth specific experience for a role? 
 
 
 ### Blogpost
